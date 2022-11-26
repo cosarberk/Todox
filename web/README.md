@@ -6,7 +6,8 @@
 
 [DEMO](http://berkcosar.com:3006/)
 
-
+## Preview
+![](https://raw.githubusercontent.com/cosarberk/Todox/main/web/public/todox.PNG)
 
 # License
 
