@@ -6,6 +6,9 @@
 
 [DEMO](http://berkcosar.com:3006/)
 
+### example username : admin@berkcosar.com
+### example password : 12345
+
 ## Preview
 ![](https://raw.githubusercontent.com/cosarberk/Todox/main/web/public/todox.PNG)
 
