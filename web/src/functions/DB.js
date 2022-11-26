@@ -2,7 +2,7 @@ import axios from "axios";
 import {  useSnackbar } from 'notistack';
 
 
-const BASEURL = 'http://192.168.43.113:3001/todox/v1/'
+const BASEURL = 'http://berkcosar.com:3005/todox/v1/'
 //const BASEURL = process.env.BASEURL
 const URLS ={
     control:BASEURL+'controlUserEmail/',
