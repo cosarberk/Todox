@@ -1,5 +1,5 @@
 # Todox
-Todox - React , material ui , postgresql , nodejs - full stack example
+Todox - React , material ui , postgresql , nodejs API server- full stack example
 
 
 # Todox Web App
